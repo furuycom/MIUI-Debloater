@@ -1,4 +1,7 @@
 # MIUI-Debloater
-MIUI 11 & 12 Debloater Magisk module
+Debloat MIUI 11 & MIUI 12 systemlessly.
 
 ![MIUI Debloater](https://i.ibb.co/CtGNDRm/IMG-20210402-213849-miuiturkiye-net.jpg)
+
+## Which apps will be debloated?
+Check [this](https://github.com/furkun/MIUI-Debloater/blob/main/install.sh) link.

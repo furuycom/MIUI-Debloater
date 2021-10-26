@@ -38,7 +38,6 @@ REPLACE="
 /system/app/MiPicks
 /system/app/MiPlayClient
 /system/app/MiRadio
-/system/app/MiWallpaper
 /system/app/MiuiBugReport
 /system/app/MiuiCompass
 /system/app/MiuiDaemon
